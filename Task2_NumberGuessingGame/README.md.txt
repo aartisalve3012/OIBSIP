@@ -96,6 +96,6 @@ Points = (Remaining Attempts + 1) × 10
 
 ## Author
 
-Arati Salave
+Arati Salve
 
 Java Development Intern – Oasis Infobyte
