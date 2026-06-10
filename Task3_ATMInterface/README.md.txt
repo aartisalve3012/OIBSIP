@@ -88,6 +88,6 @@ Terminates the ATM session safely.
 
 ## Author
 
-Arati Salave
+Arati Salve
 
 Java Development Intern – Oasis Infobyte
